@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Maths_Test.cpp
+c:\users\jeremy.barzas\desktop\adgp110\maths library\maths library\maths_header.h(121): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  c:\users\jeremy.barzas\desktop\adgp110\maths library\maths library\maths_header.h(118): note: while compiling class template member function 'Vector2D<float> Vector2D<float>::linrIntrpol(Vector2D<float>,Vector2D<float>)'
+  c:\users\jeremy.barzas\desktop\adgp110\maths library\maths library\maths_test.cpp(106): note: see reference to function template instantiation 'Vector2D<float> Vector2D<float>::linrIntrpol(Vector2D<float>,Vector2D<float>)' being compiled
+  c:\users\jeremy.barzas\desktop\adgp110\maths library\maths library\maths_test.cpp(53): note: see reference to class template instantiation 'Vector2D<float>' being compiled
+c:\users\jeremy.barzas\desktop\adgp110\maths library\maths library\maths_header.h(122): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jeremy.barzas\desktop\adgp110\maths library\maths library\maths_header.h(265): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  c:\users\jeremy.barzas\desktop\adgp110\maths library\maths library\maths_header.h(262): note: while compiling class template member function 'Vector3D<float> Vector3D<float>::linrIntrpol(Vector3D<float>,Vector3D<float>)'
+  c:\users\jeremy.barzas\desktop\adgp110\maths library\maths library\maths_test.cpp(179): note: see reference to function template instantiation 'Vector3D<float> Vector3D<float>::linrIntrpol(Vector3D<float>,Vector3D<float>)' being compiled
+  c:\users\jeremy.barzas\desktop\adgp110\maths library\maths library\maths_test.cpp(120): note: see reference to class template instantiation 'Vector3D<float>' being compiled
+c:\users\jeremy.barzas\desktop\adgp110\maths library\maths library\maths_header.h(266): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jeremy.barzas\desktop\adgp110\maths library\maths library\maths_header.h(267): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Maths Library.vcxproj -> C:\Users\jeremy.barzas\Desktop\ADGP110\Maths Library\Maths Library\.\Debug\Maths Library.lib

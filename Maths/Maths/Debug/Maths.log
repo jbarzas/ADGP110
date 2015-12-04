@@ -1,0 +1,13 @@
+﻿  Maths_Test.cpp
+c:\users\jeremy.barzas\desktop\adgp110\maths\maths\maths_header.h(122): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  c:\users\jeremy.barzas\desktop\adgp110\maths\maths\maths_header.h(119): note: while compiling class template member function 'Vector2D<float> Vector2D<float>::linrIntrpol(Vector2D<float>,Vector2D<float>)'
+  c:\users\jeremy.barzas\desktop\adgp110\maths\maths\maths_test.cpp(106): note: see reference to function template instantiation 'Vector2D<float> Vector2D<float>::linrIntrpol(Vector2D<float>,Vector2D<float>)' being compiled
+  c:\users\jeremy.barzas\desktop\adgp110\maths\maths\maths_test.cpp(53): note: see reference to class template instantiation 'Vector2D<float>' being compiled
+c:\users\jeremy.barzas\desktop\adgp110\maths\maths\maths_header.h(123): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jeremy.barzas\desktop\adgp110\maths\maths\maths_header.h(266): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  c:\users\jeremy.barzas\desktop\adgp110\maths\maths\maths_header.h(263): note: while compiling class template member function 'Vector3D<float> Vector3D<float>::linrIntrpol(Vector3D<float>,Vector3D<float>)'
+  c:\users\jeremy.barzas\desktop\adgp110\maths\maths\maths_test.cpp(179): note: see reference to function template instantiation 'Vector3D<float> Vector3D<float>::linrIntrpol(Vector3D<float>,Vector3D<float>)' being compiled
+  c:\users\jeremy.barzas\desktop\adgp110\maths\maths\maths_test.cpp(120): note: see reference to class template instantiation 'Vector3D<float>' being compiled
+c:\users\jeremy.barzas\desktop\adgp110\maths\maths\maths_header.h(267): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jeremy.barzas\desktop\adgp110\maths\maths\maths_header.h(268): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Maths.vcxproj -> C:\Users\jeremy.barzas\Desktop\ADGP110\Maths\Debug\Maths.exe
